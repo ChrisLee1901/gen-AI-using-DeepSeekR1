@@ -108,14 +108,6 @@ Gen-AI-With-Deep-Seek-R1/
     └── pdfs/
 ```
 
-## 🎨 Screenshots
-
-### Code Companion Interface
-![Code Companion](https://via.placeholder.com/800x500/1a1a1a/00FFAA?text=DeepSeek+Code+Companion)
-
-### DocuMind AI Interface
-![DocuMind AI](https://via.placeholder.com/800x500/0E1117/00FFAA?text=DocuMind+AI)
-
 ## 🔧 Customization
 
 ### Change AI Model
